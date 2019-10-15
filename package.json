@@ -1,0 +1,14 @@
+{
+  "name": "gulp-email",
+  "version": "1.0.0",
+  "description": "Simple GULP for Sass and JS with minifier.",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "del": "^4.1.1",
+    "gulp": "^4.0.2",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
